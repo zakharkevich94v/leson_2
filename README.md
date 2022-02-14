@@ -17,7 +17,7 @@ git clone git@github.com:zakharkevich94v/tic-tac-toe.git
 Run the game script:
 
 ```bash
-cd lesson_2
+cd tic-tac-toe
 python tic_tac_toe.py
 ```
 
