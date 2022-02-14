@@ -11,14 +11,14 @@ Go to the official [downloads page](https://www.python.org/downloads/), install 
 Clone this repository:
 
 ```bash
-git clone git@github.com:zakharkevich94v/leson_2.git
+git clone git@github.com:zakharkevich94v/tic-tac-toe.git
 ```
  
 Run the game script:
 
 ```bash
 cd lesson_2
-python lesson_2.py
+python tic_tac_toe.py
 ```
 
 Enjoy :)
